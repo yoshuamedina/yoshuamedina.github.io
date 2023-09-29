@@ -1,0 +1,88 @@
+#container {
+background-image: url('ocean.jpg');
+background-size: cover;
+background-repeat: repeat;
+
+}
+#Header {
+text-align: center;
+ border: solid black;
+ margin-top:1%; margin-left: 4%; border-height: 1cm; border-width: 0.12cm; width: 90%;
+font-family: sans-serif;
+color: lightblue;
+}
+#menu {
+float: left;
+border: solid black;
+margin-left: 4%;
+}
+
+#main {
+border: solid black;
+Border-height: 1cm; border-width: 0.12cm; width: 10%;
+font-family:sans-serif;
+}
+
+table, th, td {
+text-align: center;
+border: 2px solid black;  
+width: 50%;
+font-family: sans-serif;
+margin-bottom: 1%;
+background-color: lightgreen;
+}
+
+.table3_class {
+Float: left; width: 25%; height: 30;
+border: none;
+margin:auto;
+background-color: lightblue;
+text-align: center;
+}
+.table4_class {
+Float: left; width: 25%; height: 30;
+border: none;
+margin:auto;
+background-color: yellow;
+text-align: center;
+}
+.table5_class {
+Float: left; width: 25%; height: 30;
+border: none;
+margin:auto;
+background-color: lightblue;
+text-align: center;
+}
+.table6_class {
+Float: left; width: 25%; height: 30;
+border: none;
+margin:auto;
+background-color: yellow;
+text-align: center;
+}
+.div {
+border: 5px outset PaleGreen;
+  background-color: lightblue;    
+  text-align: center;
+ width: 49%; border-height: 1cm;
+ float: left;
+font-family: sans-serif;
+margin-top: 4%;
+}
+.quote { 
+margin-left: 13%;
+font-family: sans-serif;
+}
+
+.name { 
+text-align: center;
+color: lightgreen;
+}
+.Dom { 
+text-align: right;
+
+a{
+  background-color: green;
+  transition: background-color 0.5s;
+  }
+ 
